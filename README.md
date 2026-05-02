@@ -2,9 +2,7 @@ I'm Ivan Pereira, CTO at [Promptly Health](https://promptlyhealth.com).
 
 At Promptly, we're building a healthcare federated data network. I lead engineering teams and work on healthcare data infrastructure.
 
-I spend a probably unreasonable amount of time trying to wrangle stochastic clankers into doing useful work.
-
-I like small useful tools, boring infrastructure, and workflows that make teams faster without adding more ceremony.
+I'm currently spending a probably unreasonable amount of time trying to wrangle stochastic clankers into doing useful work.
 
 ### Public work
 
