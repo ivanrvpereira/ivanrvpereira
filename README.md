@@ -9,7 +9,6 @@ Lately, I've been spending a probably unreasonable amount of time trying to wran
 | Project | What it is |
 |---|---|
 | [pi-perplexity](https://github.com/ivanrvpereira/pi-perplexity) | Pi extension for web search through Perplexity Pro/Max |
-| [.agents](https://github.com/ivanrvpereira/.agents) | My personal coding-agent setup: prompts, skills, extensions, and workflow glue |
 | [promptlylabs/skills](https://github.com/promptlylabs/skills) | Coding-agent skills used by the Promptly team |
 
-You can also find me on [LinkedIn](https://www.linkedin.com/in/ivanrvpereira) or [X](https://x.com/ivanrvpereira).
+You can also find me on [X](https://x.com/ivanrvpereira) or [LinkedIn](https://www.linkedin.com/in/ivanrvpereira).
